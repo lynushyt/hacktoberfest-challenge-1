@@ -8,6 +8,7 @@
     - [x] Add documentation for Mac users
 - Don't destroy anything important in this section!
 - Have fun and support other open source projects!
+- Hey hey yo yo~
 
 ## Fixed ✅
 - [x] Example fix, copy this as a template!
